@@ -25,11 +25,15 @@ To run the project locally, follow these steps:
 2. **Navigate to the project folder:**
    ```bash
    cd girl-scout-leyte-spa
+
+3. **Checkout to Dev Branch:**
+   ```bash
+   git checkout dev
    
 4. **Install the dependencies:**
    ```bash
    npm install
    
-6. **Run the development server:**
+5. **Run the development server:**
    ```bash
    npm run dev
